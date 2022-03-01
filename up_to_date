@@ -1,6 +1,10 @@
 git clone
 git add .
+<<<<<<< HEAD
 git commit -m
+=======
+git commit -m "Hello"
+>>>>>>> 15481f49ca76038a9bed47cfba278d5ab54d68b7
 git push
 git pull
 git branch
